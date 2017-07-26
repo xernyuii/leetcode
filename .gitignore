@@ -1,2 +1,6 @@
 *.out
 *.o
+*.DS_Store
+*.pdf
+*.txt
+*.in
